@@ -1,0 +1,19 @@
+# UI
+streamlit
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# Mistral
+langchain-mistralai
+mistralai
+
+# Web research
+tavily-python
+beautifulsoup4
+requests
+
+# Environment variables
+python-dotenv
